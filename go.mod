@@ -1,10 +1,11 @@
-module github.com/gagliardetto/anchor-go
+module github.com/smartcontractkit/anchor-go
 
 go 1.24.1
 
 require (
 	github.com/dave/jennifer v1.7.1
 	github.com/davecgh/go-spew v1.1.1
+	github.com/gagliardetto/anchor-go v1.0.0
 	github.com/gagliardetto/binary v0.8.0
 	github.com/gagliardetto/solana-go v1.12.0
 	github.com/stretchr/testify v1.7.0
