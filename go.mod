@@ -1,4 +1,4 @@
-module github.com/gagliardetto/anchor-go
+module github.com/smartcontractkit/anchor-go
 
 go 1.24.1
 

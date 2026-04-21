@@ -4,9 +4,9 @@ import (
 	"fmt"
 
 	. "github.com/dave/jennifer/jen"
-	"github.com/gagliardetto/anchor-go/idl"
-	"github.com/gagliardetto/anchor-go/idl/idltype"
-	"github.com/gagliardetto/anchor-go/tools"
+	"github.com/smartcontractkit/anchor-go/idl"
+	"github.com/smartcontractkit/anchor-go/idl/idltype"
+	"github.com/smartcontractkit/anchor-go/tools"
 )
 
 func gen_MarshalWithEncoder_struct(

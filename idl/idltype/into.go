@@ -3,7 +3,7 @@ package idltype
 import (
 	"encoding/json"
 
-	"github.com/gagliardetto/anchor-go/tools"
+	"github.com/smartcontractkit/anchor-go/tools"
 )
 
 func Into(

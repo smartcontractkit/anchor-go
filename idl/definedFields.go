@@ -3,8 +3,8 @@ package idl
 import (
 	"encoding/json"
 
-	"github.com/gagliardetto/anchor-go/idl/idltype"
-	"github.com/gagliardetto/anchor-go/tools"
+	"github.com/smartcontractkit/anchor-go/idl/idltype"
+	"github.com/smartcontractkit/anchor-go/tools"
 )
 
 // #[serde(untagged)]

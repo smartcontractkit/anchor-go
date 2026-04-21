@@ -1,6 +1,6 @@
 package generator
 
-import "github.com/gagliardetto/anchor-go/idl/idltype"
+import "github.com/smartcontractkit/anchor-go/idl/idltype"
 
 func IsOption(v idltype.IdlType) bool {
 	switch v.(type) {

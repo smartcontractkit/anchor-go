@@ -4,7 +4,7 @@ import (
 	"fmt"
 
 	. "github.com/dave/jennifer/jen"
-	"github.com/gagliardetto/anchor-go/idl"
+	"github.com/smartcontractkit/anchor-go/idl"
 	"github.com/gagliardetto/solana-go"
 )
 
@@ -49,7 +49,7 @@ func (g *Generator) Generate() (*Output, error) {
 		g.options = &GeneratorOptions{
 			OutputDir:   "generated",
 			Package:     "idlclient",
-			ModPath:     "github.com/gagliardetto/anchor-go/idlclient",
+			ModPath:     "github.com/smartcontractkit/anchor-go/idlclient",
 			ProgramId:   nil,
 			ProgramName: "myprogram",
 		}
