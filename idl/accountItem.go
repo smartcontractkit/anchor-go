@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/gagliardetto/anchor-go/tools"
+	"github.com/smartcontractkit/anchor-go/tools"
 	"github.com/gagliardetto/solana-go"
 )
 

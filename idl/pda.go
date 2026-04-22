@@ -3,7 +3,7 @@ package idl
 import (
 	"encoding/json"
 
-	"github.com/gagliardetto/anchor-go/tools"
+	"github.com/smartcontractkit/anchor-go/tools"
 )
 
 // pub struct IdlPda {
