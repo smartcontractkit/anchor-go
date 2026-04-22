@@ -11,7 +11,7 @@ const (
 	PkgBinary         = "github.com/gagliardetto/binary"
 	PkgSolanaGo       = "github.com/gagliardetto/solana-go"
 	PkgSolanaGoText   = "github.com/gagliardetto/solana-go/text"
-	PkgAnchorGoErrors = "github.com/gagliardetto/anchor-go/errors"
+	PkgAnchorGoErrors = "github.com/smartcontractkit/anchor-go/errors"
 	// TODO: use or remove this:
 	PkgTreeout        = "github.com/gagliardetto/treeout"
 	PkgFormat         = "github.com/gagliardetto/solana-go/text/format"
